@@ -1,0 +1,28 @@
+.login .main {
+	padding-top: 40px;
+}
+
+
+.main  {
+	margin-top: 15px;
+}
+
+.default .main {
+	padding-top: 20px;
+}
+
+.main-nav {
+	margin-bottom: 25px;
+}
+
+.center {
+	text-align: center;
+}
+
+.pad {
+	padding-top: 20px;
+}
+
+.form-control{
+	margin-left: 1em;
+}

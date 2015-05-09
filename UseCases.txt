@@ -1,0 +1,34 @@
+User logs in.
+
+Administrator views course schedule
+Administrator adds a course
+Administrator deletes a course
+Administrator adds a session of course
+Administrator deletes a session of course
+Administrator list sessions
+
+User logs in.
+
+Administrator views course schedule
+Administrator adds a course
+Administrator deletes a course
+Administrator adds a session of course
+Administrator deletes a session of course
+Administrator list sessions
+
+1) Jason
+Faculty list their sessions - Linh
+Faculty views the detail of a session
+Faculty download student’s assignment
+Faculty creates an assignment
+
+2) Pete
+X Student list sessions being offered
+X Student review detail of a course session
+X Student Enroll
+Student Review student’s grades
+
+3) Linh
+Faculty upload material
+Student Upload assignments
+Student View course material
